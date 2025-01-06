@@ -1,5 +1,5 @@
 👋 Hi, I’m @DeadGinger07,
-I am a newbie at software development, and have a lot to learn. I am currently learning Python.
+I am a newbie at software development, and have a lot to learn. I am currently learning Python, HTML, and JavaScript.
 
 <!---
 DeadGinger07/DeadGinger07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
